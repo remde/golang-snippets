@@ -1,4 +1,4 @@
-#Golang Snippets
+# Golang Snippets
 
 This repository is a collection of applications written in Golang. You will find a range of well documented and well written code examples from the simplest hello world to more complex applications.
 
